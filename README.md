@@ -1,1 +1,1 @@
-# Simple-snake-game-C-
+# Simple-snake-game-Cpp
